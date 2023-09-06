@@ -1,0 +1,11 @@
+I need a program that refreshes every 10 seconds the following page "https://app.melascrivi.com/articles".
+
+it's a copywriting site where editors enter requests to write articles. as soon as the requests appear on the page I told you about earlier, a contest starts to see who gets the article the fastest.
+I tried to do it myself but encountered some problems.
+
+I need the program to do the following things.
+
+1- go to "https://app.melascrivi.com/login".
+2- enter the credentials manually by myself.
+3- go to "https://app.melascrivi.com/articles" and refresh the page every 10 seconds and as soon as an article comes up book it by clicking on it. Once you click on the article another page will open where you have to confirm the article by clicking on the button at the bottom that says "Prendi in carico questo articolo"
+
